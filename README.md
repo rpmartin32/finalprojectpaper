@@ -1,4 +1,4 @@
-# Computer Vision in Remote Sensing
+# Remote Sensing in Forest Fires
 
 
 
