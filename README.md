@@ -54,4 +54,4 @@ Achour, H., Toujani, A., Trabelsi, H., & Jaouadi, W. (2021). Evaluation and comp
 Kuchkorov, T., Urmanov, S. N., Kuvvatova, M., & Anvarov, I. (2020). Satellite image formation and preprocessing methods. At the 2020 International Conference on Information Science and Communications Technologies (ICISCT). https://doi.org/10.1109/icisct50599.2020.9351456
 Priya, R. S., & Vani, K. (2019). Deep Learning Based Forest Fire Classification and Detection in Satellite Images. In International Conference on Advanced Computing. https://doi.org/10.1109/icoac48765.2019.246817
 Enderle, D. I. M., & Weih, R. (2005). Integrating Supervised and Unsupervised Classification Methods to Develop a More Accurate Land Cover Classification. Journal of the Arkansas Academy of Science, 59(1), 65–73. https://libinfo.uark.edu/aas/issues/2005v59/v59a8.pdf
-Knudby, A. (2021, July 26). Accuracy assessment. Pressbooks. https://ecampusontario.pressbooks.pub/remotesensing/chapter/chapter-7-accuracy-assessment/ 
+Knudby, A. (2021, July 26). Accuracy assessment. Pressbooks. https://ecampusontario.pressbooks.pub/remotesensing/chapter/chapter-7-accuracy-assessment/  
